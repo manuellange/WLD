@@ -9,9 +9,16 @@ Thus the results are not exactly the same, but very similar.
 
 **Publication:**
 ```
-Published at VMV 2020 
-https://www.gcpr-vmv-vcbm-2020.uni-tuebingen.de/
-Bibtex coming soon...
+@inproceedings {lange2020wld,
+booktitle = {Vision, Modeling, and Visualization},
+editor = {Krüger, Jens and Niessner, Matthias and St\"uckler, J\"org},
+title = {{WLD: A Wavelet and Learning based Line Descriptor for Line Feature Matching}},
+author = {Lange, Manuel and Raisch, Claudio and Schilling, Andreas},
+year = {2020},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-123-6},
+DOI = {10.2312/vmv.20201186}
+}
 ```
 
 ## 1. Prerequisites
